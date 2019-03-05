@@ -10,7 +10,7 @@ import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.example.playvideos.DetailScreenActivity;
+import com.example.playvideos.view.DetailScreenActivity;
 import com.example.playvideos.R;
 import com.example.playvideos.model.PlayVideosObj;
 import com.squareup.picasso.Picasso;

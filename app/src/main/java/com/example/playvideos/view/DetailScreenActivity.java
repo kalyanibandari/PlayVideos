@@ -1,4 +1,4 @@
-package com.example.playvideos;
+package com.example.playvideos.view;
 
 import android.annotation.SuppressLint;
 import android.net.Uri;
@@ -11,6 +11,7 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
 
+import com.example.playvideos.R;
 import com.example.playvideos.adapter.RelatedVideosAdapter;
 import com.example.playvideos.model.PlayVideosObj;
 import com.google.android.exoplayer2.DefaultLoadControl;

@@ -1,4 +1,4 @@
-package com.example.playvideos;
+package com.example.playvideos.view;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -7,6 +7,7 @@ import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.util.Log;
 
+import com.example.playvideos.R;
 import com.example.playvideos.adapter.VideosAdapter;
 import com.example.playvideos.api.ApiClient;
 import com.example.playvideos.api.ApiInterface;
