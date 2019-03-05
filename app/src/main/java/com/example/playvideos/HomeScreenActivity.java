@@ -7,6 +7,7 @@ import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.util.Log;
 
+import com.example.playvideos.adapter.VideosAdapter;
 import com.example.playvideos.api.ApiClient;
 import com.example.playvideos.api.ApiInterface;
 import com.example.playvideos.model.PlayVideosObj;

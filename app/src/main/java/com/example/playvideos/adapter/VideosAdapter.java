@@ -1,4 +1,4 @@
-package com.example.playvideos;
+package com.example.playvideos.adapter;
 
 import android.content.Context;
 import android.content.Intent;
@@ -10,6 +10,8 @@ import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.TextView;
 
+import com.example.playvideos.DetailScreenActivity;
+import com.example.playvideos.R;
 import com.example.playvideos.model.PlayVideosObj;
 import com.squareup.picasso.Picasso;
 
