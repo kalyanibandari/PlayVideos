@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "473421874529",
+    "firebase_url": "https://playvideos-51e68.firebaseio.com",
+    "project_id": "playvideos-51e68",
+    "storage_bucket": "playvideos-51e68.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473421874529:android:50cbf591ca46bc57",
+        "android_client_info": {
+          "package_name": "com.example.playvideos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473421874529-chc1veeo6dpskk2svjq793ga52jajmo8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.playvideos",
+            "certificate_hash": "4a1947157e23e1ce97f7e947e1353306df061ea2"
+          }
+        },
+        {
+          "client_id": "473421874529-l2gar20irgio5t8arfqa6seoqsepp2v8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8fsXmhrKVV1HPnHiU3n11p0GYU1eShkw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "473421874529-l2gar20irgio5t8arfqa6seoqsepp2v8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
